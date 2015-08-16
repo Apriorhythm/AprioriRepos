@@ -1,0 +1,65 @@
+
+Hello, I'm Apriorhythm!
+
+Date : [2015-08-16 Sun]
+
+* This is
+** I think a file
+ 1) A special file
+ 2) First .org file commited
+*** Good
+
+** Yeah [0/2]
+ - [ ] This is a TODO list
+ - [ ] ..... Maybe
+
+** Well [50%]
+*** TODO This is a TODO list
+*** DONE And done!
+
+** I'm sitting here, a good table, yeah, table
+|---------+---------+---------+---------+---------+---------|
+| E Table | A Table | D Table | G Table | B Table | E Table |
+|---------+---------+---------+---------+---------+---------|
+| 3       | 6       | 2       | 5       | 7       | 3       |
+|---------+---------+---------+---------+---------+---------|
+| Mi      | La      | Re      | So      | Xi      | Mi      |
+|---------+---------+---------+---------+---------+---------|
+| V       | I       | M       | V       | I       | M       |
+| E       | M       | A       | C       | S       | EMACS   |
+|---------+---------+---------+---------+---------+---------|
+
+
+*** Well [[That's Good]]
+**** Indeed <<That's Good>> !
+**** And [[http://www.google.com][That's it!]] --> A link to [[http://www.microsoft.com][Microsoft]]
+***** Here is a more explicit one : http://www.gnu.org
+
+
+→_→ Try to put my github address here : 
+Here , /Here/, _Here_, *Here* , Here Maps, oh..en...
+Here : https://github.com/Apriorhythm
+
+#+BEGIN_SRC C++
+std::cout << "That's it!" << std::endl;
+#+END_SRC
+
+#+BEGIN_SRC java
+System.out.println("That's what?");
+#+END_SRC
+
+#+BEGIN_SRC sh
+echo "I'll tell you at `date +%Y-%m-%d`"
+#+END_SRC
+
+#+BEGIN_SRC python
+print "........"
+#+END_SRC
+
+#+BEGIN_SRC C
+printf("\n    We don't use 'Hello World!' anymore!    \n");
+#+END_SRC
+
+
+----LINE----line-----Line-----Li_ne----LiNe----_line_----_LINE_----Apriorhythm
+##############################################################################
